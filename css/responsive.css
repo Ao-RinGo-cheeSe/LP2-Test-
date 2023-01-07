@@ -2,6 +2,12 @@
 
 @media screen and (max-width: 1024px) {
   /* Top */
+  .top-wrap__right {
+    width: 50%;
+    margin-left: 0;
+    margin-right: auto;
+  }
+
   .top-wrap__right__logo {
     display: flex;
     justify-content: center;
@@ -9,8 +15,8 @@
   }
 
   .top-wrap__right__logo__main {
-    top: 71%;
-    left:55%;
+    top: 72%;
+    left: 5.5%;
   }
 
   /* About */
@@ -161,13 +167,13 @@
 
   /* Top */
   .top-wrap__right__logo__circle {
-    width: 200px;
-    height: 200px;
+    width: 20.0rem;
+    height: 20.0rem;
   }
-  
+
   .top-wrap__right__logo__main {
-    top: 71%;
-    left: 55%;
+    top: 72%;
+    left: 4.5%;
   }
 
   .top-wrap__right__logo__main__ttl {
@@ -408,6 +414,8 @@
   /* Top */
   .top-wrap__right {
     width: 85%;
+    margin-left: auto;
+    margin-right: 0;
   }
   
   .top-wrap__right__logo__circle {
