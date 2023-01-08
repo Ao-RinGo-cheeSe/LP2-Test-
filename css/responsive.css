@@ -29,6 +29,13 @@
     width: 90%;
   }
 
+  .block__content {
+    width: 35.0rem;
+    height: 31.0rem;
+    flex-direction: column;
+    border-radius: 2.0rem;
+  }
+
   /* Voice */
   .voice-wrap__main {
     width: 85%;
@@ -192,7 +199,7 @@
 
   /* About */
   .about-wrap__main__img img {
-    width: 48.0rem;
+    width: 40.0rem;
   }
 
   .about-wrap__main__txt {
@@ -296,7 +303,7 @@
 
   /* FAQ */
   .faq-wrap__main__block {
-    width: 50.0rem;
+    width: 40.0rem;
     height: 23.5rem;
     font-size: 1.0rem;
   }
@@ -357,8 +364,8 @@
     font-size: 1.2rem;
   }
 
-  .footer-wrap__nav__list {
-    padding: 0 8.0rem;
+  .list__medium {
+    padding: 0 16.0rem;
   }
 
   .footer-wrap__nav__list a {

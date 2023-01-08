@@ -84,6 +84,10 @@ li {
 }
 
 /* Header */
+.header {
+  width: 100%;
+}
+
 .header-wrap {
   width: 95%;
   height: 10vh;
@@ -209,6 +213,7 @@ li {
 
 /* About */
 .about {
+  width: 100%;
   background-color: #f0f0f0;
 }
 
@@ -229,6 +234,10 @@ li {
 }
 
 /*Feature*/
+.feature {
+  width: 100%;
+}
+
 .feature-wrap {
   width: 60%;
   margin: 0 auto;
@@ -281,6 +290,7 @@ li {
 
 /*Voice*/
 .voice {
+  width: 100%;
   background-color: #ffb366;
 }
 
@@ -343,6 +353,10 @@ li {
 }
 
 /* News */
+.news {
+  width: 100%;
+}
+
 .news-wrap__main__block{
   margin: 0 2%;
 }
@@ -361,6 +375,7 @@ li {
 
 /* FAQ */
 .faq {
+  width: 100%;
   background-color: #f0f0f0;
 }
 
@@ -383,6 +398,10 @@ li {
 }
 
 /* App */
+.app {
+  width: 100%;
+}
+
 .app-wrap__logo {
   margin-bottom: 5.0rem;
 }
@@ -416,6 +435,7 @@ li {
 
 /* Footer */
 .footer {
+  width: 100%;
   background-color: #404040;
 }
 
@@ -450,8 +470,8 @@ li {
   font-weight: bold;
 }
 
-.footer-wrap__nav__list {
-  padding: 0 10.0rem;
+.list__medium {
+  padding: 0 20.0rem;
 }
 
 .footer-wrap__nav__list a {
